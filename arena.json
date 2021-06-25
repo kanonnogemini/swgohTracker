@@ -150,9 +150,39 @@
         "userIcon": ":comet:"
     },
     {
-        "name" : "Super Se7en",
-        "allyCode" : "926235139",
+        "name": "Super Se7en",
+        "allyCode": "926235139",
         "tagIdOnDrop": "",
         "userIcon": ":rainbow:"
+    },
+    {
+        "name": "Panzafo",
+        "allyCode": "735383144",
+        "tagIdOnDrop": "",
+        "userIcon":":poop:"
+    },    
+    {
+        "name": "ZeroSkywalker",
+        "allyCode": "245291358",
+        "tagIdOnDrop": "",
+        "userIcon":":poop:"
+    },
+    {
+        "name": "MDLR I DarthAnian",
+        "allyCode": "981322191",
+        "tagIdOnDrop": "",
+        "userIcon":":poop:"
+    },
+    {
+        "name": "Mugger",
+        "allyCode": "174157984",
+        "tagIdOnDrop": "",
+        "userIcon":":poop:"
+    },
+    {
+        "name": "Egon O",
+        "allyCode": "144672895",
+        "tagIdOnDrop": "",
+        "userIcon":":poop:"
     }
 ]
