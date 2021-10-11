@@ -222,9 +222,9 @@
         "userIcon":":poop:"
     },
     {
-        "name": "Arminas",
+        "name":"Arminas",
         "allyCode":"538-974-431",
-        tagIdOnDrop":"",
+        "tagIdOnDrop":"",
         "userIcon":"smiley_cat"
      }   
 ]
